@@ -1,0 +1,269 @@
+{
+  "login-info": {
+    "actorType": "Employer",
+    "currentUser": "vince.malone@namely.com",
+    "loginType": "ThirdParty",
+    "subsidiaryName": "1661, Inc.",
+    "superAdminName": "Namely Admin"
+  },
+  "login-changecompany": {},
+  "login-returntoadmin": {},
+  "login-signout": {},
+  "navigation-get": [
+    {
+      "route": "/Reports/Dashboard.aspx",
+      "title": "Home",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": null
+    },
+    {
+      "route": "/payroll-center",
+      "title": "Payroll Center",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": [
+        {
+          "route": "/payroll-center",
+          "title": "Run Payroll",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Payroll/ProcessManualStep1.aspx",
+          "title": "Manual Check/Extra Payroll Run",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Payroll/PayAdditionalApprove.aspx",
+          "title": "Approve Additional Pay/Expense",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Payroll/UploadPayAdditional.aspx",
+          "title": "Upload Additional Pay/Expense",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Payroll/UploadHours.aspx",
+          "title": "Upload Hours",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/calculators/proration",
+          "title": "Calculators",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        }
+      ]
+    },
+    {
+      "route": "/Clients/Info.aspx",
+      "title": "Company",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": null
+    },
+    {
+      "route": "/employee/",
+      "title": "Employee",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": [
+        {
+          "route": "/HREmployee/List.aspx",
+          "title": "Search",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HREmployee/Info.aspx",
+          "title": "Detail",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        }
+      ]
+    },
+    {
+      "route": "/Reports/PayCycleReports.aspx",
+      "title": "Reports",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": [
+        {
+          "route": "/Reports/PayCycleReports.aspx",
+          "title": "Pay Cycle",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/DateReports.aspx",
+          "title": "Date Range",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/CycleReports.aspx",
+          "title": "Quarterly & Year End",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/RemoteLink/SyncLog.aspx",
+          "title": "Change Log",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/RemoteLink/ErrorLog.aspx",
+          "title": "Error Log",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "https://naturalgourmet.pcff-dev.np.namely.run/profile_status",
+          "title": "Profile Status",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/Pages/AdHocReportList.aspx",
+          "title": "Report Writer",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        }
+      ]
+    },
+    {
+      "route": "/HRTimeCard/TC1TimeCard.aspx",
+      "title": "Time Sheet",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": [
+        {
+          "route": "/HRTimeCard/TC1TimeCard.aspx",
+          "title": "View Activity",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HRTimeCard/TC1TimeLogApprove.aspx",
+          "title": "Approve Time Log",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HRTimeCard/HourBenefitManage.aspx",
+          "title": "Manage Hour Benefits",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HRTimeCard/DateReports.aspx",
+          "title": "Reports",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HRTimeCard/EmployeeWSchedule.aspx",
+          "title": "Assign Work Schedule",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/HRTimeCard/TC1WorkSchedule.aspx",
+          "title": "Work Schedule",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        }
+      ]
+    },
+    {
+      "route": "/EnrollConfig/Pages/ClientInfo.aspx",
+      "title": "Enrollment Setup",
+      "errorsNumber": 0,
+      "showAlert": false,
+      "children": [
+        {
+          "route": "/EnrollConfig/Pages/ClientInfo.aspx",
+          "title": "Configuration",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/BenefitReports.aspx",
+          "title": "Billing Reports",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/ConfirmationReports.aspx",
+          "title": "Confirmations Reports",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        },
+        {
+          "route": "/Reports/EnrollStatus.aspx",
+          "title": "Enrollment Status",
+          "errorsNumber": 0,
+          "showAlert": false,
+          "children": null
+        }
+      ]
+    }
+  ],
+  "employees": [
+    {
+      "id": "1000",
+      "name": "Foo, Bar",
+      "lastFourSsn": "9900",
+      "terminated": false
+    },
+    {
+      "id": "1234",
+      "name": "Malone, Vince",
+      "lastFourSsn": "9911",
+      "terminated": false
+    },
+    {
+      "id": "1999",
+      "name": "From-here, Gone [Jan 1, 1999]",
+      "lastFourSsn": "9915",
+      "terminated": true
+    },
+    {
+      "id": "2000",
+      "name": "No, One",
+      "lastFourSsn": "9922",
+      "terminated": false
+    }
+  ]
+}

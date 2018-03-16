@@ -1,0 +1,10 @@
+{
+  "/login/info": "/login-info",
+  "/login/changecompany": "/login-changecompany",
+  "/login/returntoadmin": "/login-returntoadmin",
+  "/login/signout": "/login-signout",
+  "/navigation/get?pageGroup=:id": "/navigation-get",
+  "/employees": "/employees",
+  "/employees/:id/header": "/employees/:id",
+  "/employees/:id/tax": "/employees/:id"
+}
